@@ -1,5 +1,6 @@
 # nipa-cloud-pretest
 
+### This my project use mysql before run server you should open xampp
 ## Build Setup API
 
 ```bash
